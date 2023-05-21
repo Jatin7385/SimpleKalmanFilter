@@ -1,3 +1,7 @@
+To understand the concept, code, look at src : .cpp file, in UpdateEstimates
+
+
+
 Simple Kalman Filter Library - [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://raw.githubusercontent.com/denyssene/SimpleKalmanFilter/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/denyssene/SimpleKalmanFilter.svg?style=plastic)](https://github.com/denyssene/SimpleKalmanFilter/stargazers) [![GitHub issues](https://img.shields.io/github/issues/denyssene/SimpleKalmanFilter.svg?style=plastic)](https://github.com/denyssene/SimpleKalmanFilter/issues)
 ========================================
 
